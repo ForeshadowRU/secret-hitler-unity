@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "511433072097",
+    "project_id": "secret-hitler-7e88f",
+    "storage_bucket": "secret-hitler-7e88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511433072097:android:112a360f9a43384c7a06a0",
+        "android_client_info": {
+          "package_name": "com.cringetrainstudio.secrethitler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511433072097-lrrapi6gkmf9ep5mjqnmibtrnlbgn7fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGlqz-QZyFlH9TXYaLMiZ0y0Vl0KbwBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511433072097-lrrapi6gkmf9ep5mjqnmibtrnlbgn7fj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511433072097-3rt79seel7sr5rojtlucqsdf5e5m1ue7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cringetrainstudio.secrethitler"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
